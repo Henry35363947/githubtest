@@ -205,6 +205,7 @@ namespace Lab06
                 }
             }
 
+
             // Output validation result
             Console.WriteLine($"Postal code validation for {postal} is {validate}");
             Console.WriteLine("***   End of Program ***");
