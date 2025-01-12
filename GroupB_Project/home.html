@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pawfect Pets | Your Trusted Pet Store</title>
+    <link rel="stylesheet" href="/css/home.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+        <div class="logo-container">
+            <img src="https://thumbs.dreamstime.com/b/vector-logo-pet-shop-dog-cat-round-ribbon-ai-image-genereted-perfect-blend-charm-simplicity-encapsulating-essence-327162452.jpg" alt="Pawfect Pets Logo" class="logo">
+        </div>
+        <ul class="nav-links">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="cart.html">My Cart</a></li>
+            <li><a href="signup.html">Sign In</a></li>
+            <li><a href="register.html">Register</a></li>
+        </ul>
+    </nav>
+</header>
+
+
+    <section id="home" class="hero">
+      <h1>Welcome to Pawfect Pets</h1>
+      <p>Your one-stop shop for all your pet needs!</p>
+      <button onclick="exploreProducts()">Explore Products</button>
+  </section>
+  
+
+    <section id="products" class="products">
+      <h2>Our Products</h2>
+      <div class="product-list">
+          <!-- Dog Products -->
+          <div class="product">
+              <img src="https://cdn.butternutbox.com/asset_management/assets/how-it-works-step-1-desktop" alt="Dog Food">
+              <h3>Premium Dog Food</h3>
+              <p>$20</p>
+              <button onclick="addToCart('Premium Dog Food', 20)">Add to Cart</button>
+
+          </div>
+  
+          <!-- Cat Products -->
+          <div class="product">
+              <img src="https://headsupfortails.com/cdn/shop/articles/Cat_playing_with_toy.jpg?v=1644820121" alt="Cat Toys">
+              <h3>Cat Toys</h3>
+              <p>$15</p>
+              <button onclick="addToCart('Cat Toys')">Add to Cart</button>
+          </div>
+  
+          <!-- Fish Products -->
+          <div class="product">
+              <img src="https://allnaturalpetcare.com/blog/wp-content/uploads/2019/06/Natural_Fish_Nutrition_Food.jpg" alt="Fish Food">
+              <h3>Fish Food</h3>
+              <p>$10</p>
+              <button onclick="addToCart('Fish Food')">Add to Cart</button>
+          </div>
+          <div class="product">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSextVC7t5cXOLilz6vvQgzyxlBCzHOT3VdQ&s" alt="Aquarium">
+              <h3>Small Aquarium</h3>
+              <p>$50</p>
+              <button onclick="addToCart('Small Aquarium')">Add to Cart</button>
+
+          </div>
+  
+          <!-- Bird Products -->
+          <div class="product">
+              <img src="https://www.schneiblefinearts.com/wp-content/uploads/2023/10/antique-bird-cage-5.webp" alt="Bird Cage">
+              <h3>Bird Cage</h3>
+              <p>$30</p>
+              <button onclick="addToCart('Bird Cage')">Add to Cart</button>
+          </div>
+          
+      </div>
+  </section>
+  
+
+    <section id="about" class="about">
+        <h2>About Us</h2>
+        <p>At Pawfect Pets, we believe every pet deserves the best. From food to toys, we have everything your furry friend needs.</p>
+    </section>
+
+    <section id="contact" class="contact">
+        <h2>Contact Us</h2>
+        <form id="contactForm">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+            <button type="submit">Send</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2024 Pawfect Pets. All Rights Reserved.</p>
+    </footer>
+
+    <script src="/js/home.js"></script>
+
+</body>
+</html>

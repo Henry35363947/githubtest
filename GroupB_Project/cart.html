@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Cart | Pawfect Pets</title>
+    <link rel="stylesheet" href="/css/home.css"> 
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+        <div class="logo-container">
+            <img src="https://thumbs.dreamstime.com/b/vector-logo-pet-shop-dog-cat-round-ribbon-ai-image-genereted-perfect-blend-charm-simplicity-encapsulating-essence-327162452.jpg" alt="Pawfect Pets Logo" class="logo">
+        </div>
+        <ul class="nav-links">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="cart.html">My Cart</a></li>
+            <li><a href="signup.html">Sign In</a></li>
+            <li><a href="register.html">Register</a></li>
+        </ul>
+    </nav>
+  </header>
+
+  <section id="cart" class="cart-section">
+      <h1>Your Shopping Cart</h1>
+      <div id="cart-items" class="cart-items">
+         
+      </div>
+      <div class="cart-total">
+          <p>Total: <span id="total-price">$0.00</span></p>
+          <button id="checkout" onclick="proceedToCheckout()">Proceed to Checkout</button>
+      </div>
+  </section>
+
+  <footer>
+      <p>© 2024 Pawfect Pets. All Rights Reserved.</p>
+  </footer>
+
+  <script src="/js/cart.js"></script>
+</body>
+</html>
