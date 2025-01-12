@@ -1,0 +1,15 @@
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\bin\Debug\net8.0\GIT C# TESE.exe
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\bin\Debug\net8.0\GIT C# TESE.deps.json
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\bin\Debug\net8.0\GIT C# TESE.runtimeconfig.json
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\bin\Debug\net8.0\GIT C# TESE.dll
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\bin\Debug\net8.0\GIT C# TESE.pdb
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\obj\Debug\net8.0\GIT C# TESE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\obj\Debug\net8.0\GIT C# TESE.AssemblyInfoInputs.cache
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\obj\Debug\net8.0\GIT C# TESE.AssemblyInfo.cs
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\obj\Debug\net8.0\GIT C# TESE.csproj.CoreCompileInputs.cache
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\obj\Debug\net8.0\GIT C# TESE.sourcelink.json
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\obj\Debug\net8.0\GIT C# TESE.dll
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\obj\Debug\net8.0\refint\GIT C# TESE.dll
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\obj\Debug\net8.0\GIT C# TESE.pdb
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\obj\Debug\net8.0\GIT C# TESE.genruntimeconfig.cache
+C:\Users\ihezu\OneDrive\Desktop\GITHUB_TEST\githubtest\C#\GIT C# TESE\obj\Debug\net8.0\ref\GIT C# TESE.dll
